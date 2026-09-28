@@ -75,6 +75,9 @@ Dmol3_materials-studio-setting/
 ├── DOS/
 │   └── Density of States (DOS) analysis
 │
+├── Figures/
+│   └── Figures, plots, and graphical results
+│
 ├── Materials_Studio_Dmol3_Original_Setup/
 │   └── Original DMol³ calculation and Materials Studio setup files
 │
