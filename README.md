@@ -10,6 +10,19 @@ The repository is organized according to the main computational analyses perform
 
 ---
 
+## Related Publication
+
+The files in this repository support the computational work reported in:
+
+> Mashhoun, S., & Tavahodi, A. (2024).  
+> *Boron nitride nanotubes as carriers of genistein for multitherapeutic
+> cancer treatment: A DFT study of electronic and solubility properties.*  
+> Frontiers in Nanotechnology, 6, 1483044.
+
+[Read the article](https://doi.org/10.3389/fnano.2024.1483044)
+
+---
+
 ## Research Objectives
 
 The computational study investigates BNNT-based systems for potential applications in nanomedicine and drug delivery, with particular emphasis on:
