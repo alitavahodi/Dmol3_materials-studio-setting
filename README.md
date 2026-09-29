@@ -139,6 +139,4 @@ The computational analysis is intended to provide insight into the structural, e
  
 ---
 
-## Note
 
-This repository is intended to document the computational models, analysis files, and supporting materials associated with the research project. The repository does not contain proprietary Materials Studio software or software licenses.
