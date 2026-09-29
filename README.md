@@ -109,4 +109,8 @@ Each directory corresponds to a specific part of the computational workflow or a
 
 ## Main Analyses
 
-### Density of State
+### Geometry Optimization
+### Density of States (DOS)
+### HOMO and LUMO analysis
+### Sigma Profiles and COSMO 3D Surfaces
+### Transition States and Kinetics
